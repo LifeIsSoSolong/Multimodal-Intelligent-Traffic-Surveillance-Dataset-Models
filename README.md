@@ -25,8 +25,8 @@ A large-scale **multimodal benchmark** for intelligent traffic surveillance.
 ## Installation
 
 ```bash
-git clone <your-repo-url>.git
-cd <your-repo>
+git clone git@github.com:LifeIsSoSolong/Multimodal-Intelligent-Traffic-Surveillance-Dataset-Models.git
+cd Multimodal-Intelligent-Traffic-Surveillance-Dataset-Models
 pip install -r requirements.txt
 ```
 
@@ -133,3 +133,6 @@ If you find MITS useful, please cite:
 
 * Code is released under the license specified in `LICENSE` (add or update this file as needed).
 * Please check each model and the dataset pages on ModelScope for their respective licenses and terms.
+
+## Contact
+Unicom AI
