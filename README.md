@@ -5,9 +5,9 @@ A large-scale **multimodal benchmark** for intelligent traffic surveillance.
 
 <div align="center">
 
-<img src="images/case.jpg" alt="MITS数据集效果展示" width="80%">
+<img src="images/case.jpg" alt="MITS展示" width="100%">
 
-<em>MITS示例：展示交通场景下的多模态理解能力</em>
+<em>MITS Example</em>
 
 </div>
 
