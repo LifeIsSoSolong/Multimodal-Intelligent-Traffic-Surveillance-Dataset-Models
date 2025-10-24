@@ -3,6 +3,14 @@
 A large-scale **multimodal benchmark** for intelligent traffic surveillance.
 **170,400 images** paired with **~5M instruction-following VQA samples**, covering recognition, counting, localization, background awareness, and reasoning in diverse ITS scenes (e.g., congestion, spills, unusual weather, construction, fireworks/smoke, accidents).
 
+<div align="center">
+
+<img src="images/case.jpg" alt="MITS数据集效果展示" width="80%">
+
+<em>MITS示例：展示交通场景下的多模态理解能力</em>
+
+</div>
+
 ---
 
 ## Table of Contents
