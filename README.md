@@ -5,9 +5,18 @@ A large-scale **multimodal dataset** for intelligent traffic surveillance.
 
 <div align="center">
 
-<img src="images/case.jpg" alt="MITS展示" width="100%">
+<img src="images/case.jpg" alt="MITS Exanoke" width="100%">
 
 <em>MITS Example</em>
+
+</div>
+
+
+<div align="center">
+
+<img src="images/graphical_abstract.jpg" alt="MITS Introduction" width="100%">
+
+<em>MITS Introduction</em>
 
 </div>
 
