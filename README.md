@@ -1,6 +1,6 @@
 # MITS: Multimodal Intelligent Traffic Surveillance
 
-A large-scale **multimodal benchmark** for intelligent traffic surveillance.
+A large-scale **multimodal dataset** for intelligent traffic surveillance.
 **170,400 images** paired with **~5M instruction-following VQA samples**, covering recognition, counting, localization, background awareness, and reasoning in diverse ITS scenes (e.g., congestion, spills, unusual weather, construction, fireworks/smoke, accidents).
 
 <div align="center">
@@ -66,6 +66,7 @@ Pretrained / finetuned checkpoints hosted on ModelScope:
 * **Name:** `Multimodal_Intelligent_Traffic_Surveillance`
 * **Host:** ModelScope
 * **Link:** [https://www.modelscope.cn/datasets/zhaokaikai/Multimodal_Intelligent_Traffic_Surveillance](https://www.modelscope.cn/datasets/zhaokaikai/Multimodal_Intelligent_Traffic_Surveillance)
+* **Size:** 75 G
 
 ---
 
@@ -122,7 +123,7 @@ project/
 
 ## Citation
 
-If you find MITS useful, please cite:
+If you find MITS useful, please cite our paper:
 
 ```bibtex
 @article{zhao2025mits,
